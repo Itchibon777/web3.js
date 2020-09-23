@@ -13,7 +13,7 @@
     },
     "main": "src/index.js",
     "dependencies": {
-        "@types/node": "^10.12.18",
+        "@types/node": "^10.17.29",
         "got": "9.6.0",
         "swarm-js": "0.1.39",
         "underscore": "1.9.1"
